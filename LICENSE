@@ -1,0 +1,35 @@
+Secret Role Dealer
+Copyright (c) 2026 Jaxon Schraut
+
+This project is a fan-made, non-commercial companion app for the board game
+Secret Hitler, created by Mike Boxleiter, Tommy Maranges, and Mac Schubert.
+Secret Hitler is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License
+(CC BY-NC-SA 4.0), and this project — as a derivative work that adapts its
+rules and the Party Membership sigil art from the official print-and-play
+kit — is licensed under those same terms.
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+YOU ARE FREE TO:
+  - Share — copy and redistribute this project in any medium or format
+  - Adapt — remix, transform, and build upon this project
+
+UNDER THE FOLLOWING TERMS:
+  - Attribution — You must give appropriate credit to Mike Boxleiter, Tommy
+    Maranges, and Mac Schubert as the creators of Secret Hitler, link back
+    to secrethitler.com, and indicate what you changed.
+  - NonCommercial — You may not use this project, or Secret Hitler's rules
+    or art, for commercial purposes.
+  - ShareAlike — If you remix, transform, or build upon this project, you
+    must distribute your contributions under this same license.
+  - No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything this license permits.
+
+This project reproduces no exact card art, logos, or trademarked title
+treatment from the original physical game beyond the Party Membership
+sigils (dove-in-laurel for Liberal, skull-and-snake for Fascist), which are
+sourced and re-colored from the official print-and-play kit under the
+terms above — see process_sigils.py for how they were derived.

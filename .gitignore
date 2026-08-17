@@ -1,0 +1,12 @@
+# Claude Code session state — not project source
+.claude/
+
+# WSL/Windows download metadata (NTFS alternate data stream markers)
+*:Zone.Identifier
+
+# Source reference material (copyrighted Secret Hitler print-and-play PDFs) —
+# not vendored here; see README for the official source. The sigil PNGs
+# derived from them (liberalSigil.png, fascistSigil.png, and their
+# *-tinted.png outputs) ARE tracked, since the app depends on them directly.
+Secret_Hitler_Print_and_Play.pdf
+Secret_Hitler_Rules.pdf
