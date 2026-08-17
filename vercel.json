@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/secret-role-dealer.html" }
+  ]
+}
